@@ -1,6 +1,6 @@
 import React from 'react'
 
-const canvas = () => {
+const FilePicker = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const canvas = () => {
   )
 }
 
-export default canvas
+export default FilePicker

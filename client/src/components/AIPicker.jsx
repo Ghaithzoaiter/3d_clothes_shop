@@ -1,11 +1,12 @@
 import React from 'react'
 
-const canvas = () => {
+const AIPicker = () => {
   return (
     <div>
-      
+      aipicere
     </div>
   )
 }
 
-export default canvas
+export default AIPicker
+e
